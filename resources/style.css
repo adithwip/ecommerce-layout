@@ -1,0 +1,50 @@
+/** {
+  border: 0.5px solid grey;
+}*/
+
+#col-left {
+  background-color: #ACCFCC;
+}
+
+#col-right {
+  background-color: #B8AE9C;
+}
+
+#search-button {
+  border-radius: 25px;
+}
+
+#search-input {
+  border-radius: 25px;
+}
+
+#search-box {
+  margin-right: 25px;
+}
+
+.navbar {
+  background-color: #FFFFFF;
+  border-bottom: 1px solid #DAEAEF;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 1000;
+}
+
+.logo-navbar {
+  width: auto;
+  height: 60px;
+}
+
+.menu {
+  padding: 20px 40px;
+}
+
+#righ-col {
+  padding-left: 20px;
+  padding-right: 40px;
+}
+
+.columns {
+  margin-top: 52px;
+}
